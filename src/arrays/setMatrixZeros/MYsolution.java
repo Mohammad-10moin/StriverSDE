@@ -1,6 +1,6 @@
-package arrays;
+package arrays.setMatrixZeros;
 import java.util.Scanner;
-public class Set_Matrix_Zeros {// ---Given an m x n integer matrix, if an element is 0, set its entire row and column to 0's.
+public class MYsolution {// ---Given an m x n integer matrix, if an element is 0, set its entire row and column to 0's.
 /* ex:  1   1   1               1   0   1
         1   0   1      ===>     0   0   0
         1   1   1               1   0   1
